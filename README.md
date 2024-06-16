@@ -81,7 +81,7 @@ Include a link to a demo video or screenshots of Pogo in action (if available).
 1. Run the assistant:
 
    ```bash
-   python app.py
+   python main.py
    ```
 
 2. Wait for the wake word "Pogo" to activate the assistant.

@@ -105,6 +105,10 @@ Watch the demo video of my personal voice assistant:
 
 3. I have added an executable file <a href ="https://github.com/kindo-tk/voice_assistant/blob/main/Pogo.exe">`pogo.exe`</a> that allows you to use the voice assistant directly without any installation process.(your antivirus may show this as a threat, but it is completely safe).
 
+## Area of Improvement:
+
+One area for potential improvement is the integration of OpenAI into Pogo. Incorporating OpenAI would enhance Pogo's capabilities, making it a true AI assistant with advanced natural language understanding and more powerful features. However, this is currently limited by the paid nature of the APIs.
+
 ## Contributing
 
 Contributions to improve Pogo are welcome! If you have any bug fixes, feature requests, or enhancements, feel free to submit a pull request.

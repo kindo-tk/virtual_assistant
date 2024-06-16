@@ -1,0 +1,9 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore google cookie file
+.google-cookie
+
+# Ignore Python bytecode
+__pycache__/
+

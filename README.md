@@ -1,10 +1,10 @@
-# Personal Voice Assistant **`POGO`**
+# Personal virtual Assistant **`POGO`**
 
-Pogo is a Python-based personal voice assistant that allows you to control your computer using voice commands. It is designed to assist you with various tasks using natural language interactions.
+Pogo is a Python-based personal virtual assistant that allows you to control your computer using voice commands. It is designed to assist you with various tasks using natural language interactions.
 
 ## Overview
 
-Pogo is an intelligent voice assistant programmed to understand and execute a variety of commands to help you with daily tasks. It utilizes speech recognition and text-to-speech synthesis to interact with users. Whether you want to open applications, check the weather, listen to the news, play music, or search the web, Pogo is here to assist you!
+Pogo is an intelligent virtual assistant programmed to understand and execute a variety of commands to help you with daily tasks. It utilizes speech recognition and text-to-speech synthesis to interact with users. Whether you want to open applications, check the weather, listen to the news, play music, or search the web, Pogo is here to assist you!
 
 ## Features
 
@@ -57,12 +57,12 @@ Watch the demo video of my personal voice assistant:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/kindo-tk/voice_assistant.git
+   git clone https://github.com/kindo-tk/virtual_assistant.git
    ```
 2. **Navigate to the project directory:**
 
     ```sh
-    cd .\voice_assistant\
+    cd .\virtual_assistant\
     ```
 
 3. **Create a virtual environment:**

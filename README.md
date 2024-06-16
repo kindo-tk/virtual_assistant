@@ -1,4 +1,4 @@
-# Pogo -Personal Voice Assistant
+# Personal Voice Assistant **`POGO`**
 
 Pogo is a Python-based personal voice assistant that allows you to control your computer using voice commands. It is designed to assist you with various tasks using natural language interactions.
 
@@ -30,7 +30,7 @@ Pogo is an intelligent voice assistant programmed to understand and execute a va
 - **Play Music**: Plays music by searching for the song in a predefined music library(You can create your own library by editing the musicLibrary.py file).
 
 ### 5. Get News Headlines
-- **News**: Fetches and speaks the latest news headlines from various sources.
+- **News**: Fetches and speaks the latest news headlines from various sources. 
 
 ### 6. Check Weather
 - **Weather in [City]**: Retrieves and speaks the current weather for the specified city.
@@ -41,9 +41,16 @@ Pogo is an intelligent voice assistant programmed to understand and execute a va
 ### 8. Stop Command
 - **Stop**: Stops the assistant and exits.
 
-## Demo
+## Voice Assistant Demo
 
-Include a link to a demo video or screenshots of Pogo in action (if available).
+Watch the demo video of my personal voice assistant:
+<br>click here
+<br>👇👇👇
+
+[![Voice Assistant Demo](https://img.youtube.com/vi/lgVoEzpXrAA/0.jpg)](https://www.youtube.com/watch?v=lgVoEzpXrAA)
+
+
+
 
 ## Installation
 
@@ -87,6 +94,14 @@ Include a link to a demo video or screenshots of Pogo in action (if available).
 2. Wait for the wake word "Pogo" to activate the assistant.
 3. Give voice commands to perform various tasks.
 4. To exit give stop as command.
+
+## Note
+
+1. **API Keys:**
+   - Please use your own API keys for the news and weather APIs. Replace the placeholders in the code with your own API keys to access these services.
+
+2. **Speech Recognition:**
+   - Sometimes the assistant may have difficulty recognizing speech accurately. If you encounter recognition issues, try speaking clearly and ensure there is minimal background noise. Additionally, you can adjust the microphone settings for better recognition.
 
 ## Contributing
 
